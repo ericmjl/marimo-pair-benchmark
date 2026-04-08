@@ -13,3 +13,8 @@ __pycache__/
 
 # marimo
 __marimo__/
+
+# benchmark artifacts
+logs/
+transcripts/*.json
+skills-lock.json
